@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://minji-sora-kim.github.io/sitemap.xml
